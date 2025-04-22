@@ -1,5 +1,7 @@
 ## Creative Process Representation Ontology Repository Description ##
 
+<img src="/img/CPRo.svg" width="320"/>
+
 This repository exists to provide a point of access for users to download the stable releases of the Creative Process Representation Ontology (CPRo).
 
 CPRo is the direct continuation of the ontology formerly known as CRM for Creative Process Representation (CRMcpr).
@@ -37,3 +39,7 @@ Draw.io Library
 Under the tools section of this repo, you will find a draw.io library to aid in formulating diagrams and proposal using the ontology. This library has been generated following the methods established for the CIDOC CRM and implemented by the Canadian Heritage Information Network (https://www.canada.ca/en/heritage-information-network.html). The creation of the draw.io library has been made possible with their support.
 
 This is version 2.0
+
+The formalisation and publication of the Art and Architectural Argumentation Ontology have been generously funded by: 
+
+<img src="/img/swissuniversities.svg" width="360"/>
